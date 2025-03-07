@@ -16,8 +16,8 @@ Before diving into the implementation of this project, it's essential to underst
 
 # Performance of my Model
 <div style="disply:flex">
-  <img src="test.png" alt="Test Observations" width="500" height="300">
-  <img src="train.png" alt="Test Observations" width="500" height="300">
+  <img src="test.png" alt="Test Observations" width="300" height="200">
+  <img src="train.png" alt="Test Observations" width="300" height="200">
 </div>
 
 
